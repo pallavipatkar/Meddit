@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338949503948",
+    "project_id": "mits-2026",
+    "storage_bucket": "mits-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338949503948:android:8b41019b7dcb85fcc1fb69",
+        "android_client_info": {
+          "package_name": "com.example.meddit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAWSyX5iSuKasXL9GCygepcsj8yaXEk5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
